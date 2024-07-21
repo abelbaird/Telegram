@@ -19,6 +19,11 @@ abelbaird](https://github.com/abelbaird/medium/blob/main/header-banner--optimize
 <h1>切换中文版</h1>
 <p>需要登录完成后</p>
 <p>只需要在平台界面最上面的搜索栏里面打入：@tele_zh_CN，然后你就可以看到下方的第一个功能就是“电报简体中文化”，然后直接点击这个功能，就可以看到一个全英文的页面，然后不需要去考虑英文，直接点击上面的链接，就可以跳转到一个菜单，上面咨询你是否愿意更换成为中文版，只需要点击change就可以了。然后等到菜单消除之后，你就可以看到界面已经变成了中文版本了。</p>
+<p align='center'>加速器推荐:<a href="https://512.jsy.lol/#/register?code=AXcBGu2o">加速器</a>.</p></hr>
+<p align='center1'>注意:</p>
+<p>1.加速器为付费加速器，但更稳定、便宜</p>
+<p>2.若遇到网页无法访问请<a href="https://xn--kbtz0ztjtvlp.com/">点击</a>.</P>
+<p>3.请在邀请框中输入"AXcBGu2o"</p>
 <p>反馈邮箱:abelbaird62@gmail.com</p>
 
 
