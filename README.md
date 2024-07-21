@@ -4,7 +4,7 @@ abelbaird](https://github.com/abelbaird/medium/blob/main/header-banner--optimize
 <p align='center'>
 ✘⊙﹏⊙✘
 </p>
-<p align='center'><a href="https://github.com/abelbaird/abelbaird">回到主页</a>.</p>
+<p align='center'><a href="https://github.com/abelbaird/abelbaird/blob/main/README.md">回到主页</a>.</p>
 <hr>
 </hr>
 <H2>注册：</H2>
