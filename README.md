@@ -9,6 +9,6 @@ abelbaird](https://github.com/abelbaird/medium/blob/main/header-banner--optimize
 </hr>
 <H2>注册：</H2>
 <p>1.首先打开Telegram，然后点击"Start Messaging"</p>
-<img src="https://github.com/abelbaird/medium/blob/main/1.jpg" alt="some_text">
+<img src="https://github.com/abelbaird/medium/blob/main/1.jpg" alt="some_text" width="144" height="303">
 
 
